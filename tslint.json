@@ -6,7 +6,8 @@
     "jsRules": {},
     "rules": {
         "no-empty": false,
-        "no-trailing-whitespace": false
+        "no-trailing-whitespace": false,
+        "curly": false
     },
     "rulesDirectory": []
 }
