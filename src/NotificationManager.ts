@@ -1,4 +1,3 @@
-// tslint:disable-next-line:one-variable-per-declaration
 declare let Notification: any;
 
 export class NotificationManager {
