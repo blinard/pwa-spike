@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^6.1.0",
     "gulp": "^3.9.1",
     "gulp-sourcemaps": "^2.6.3",
     "gulp-typescript": "^4.0.0-alpha.1",
